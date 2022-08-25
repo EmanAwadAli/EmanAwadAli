@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eman Awad</h1>
 <h3 align="center">Frontend and WordPress Developer</h3>
 
-- 🔭 I’m currently working on [TodoApp](https://github.com/EmanAwadAli/TodoApp.git)
+- 🔭 I’m currently working on **[TodoApp](https://github.com/EmanAwadAli/TodoApp.git)**
 
 - 🌱 I’m currently learning **React, Git**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EmanAwadAli?tab=repositories](https://github.com/EmanAwadAli?tab=repositories)
+- 👨‍💻 All of my projects are available at **[https://github.com/EmanAwadAli?tab=repositories](https://github.com/EmanAwadAli?tab=repositories)**
 
 - 📫 How to reach me **emanwork369@gmail.com**
 

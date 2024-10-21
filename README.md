@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman Awad</h1>
-<h3 align="center">Frontend and WordPress Developer</h3>
+<h3 align="center">Frontend React Developer</h3>
 
 - 🔭 I’m currently working on **[Ecommerce App](https://github.com/EmanAwadAli/React-Ecommerce-App)**
 

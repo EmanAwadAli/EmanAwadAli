@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eman Awad</h1>
 <h3 align="center">Frontend React Developer</h3>
 
-- 🔭 I’m currently working on **[Ecommerce App](https://github.com/EmanAwadAli/React-Ecommerce-App)**
-
 - 🌱 I’m currently learning **React, Git**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/EmanAwadAli?tab=repositories](https://github.com/EmanAwadAli?tab=repositories)**
